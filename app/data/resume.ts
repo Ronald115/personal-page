@@ -2,7 +2,7 @@ export const profile = {
   name: "Ronald Arce Matamoros",
   title: "Full Stack Developer & Junior DevOps Engineer",
   location: "Alajuela, Costa Rica",
-  email: "ronaldarcem11@gmail.com",
+  email: "ronaldarcem115@gmail.com",
   phone: "+(506) 8851-6653",
   linkedin: "https://www.linkedin.com/in/ronald-arce-842920233",
   summary:
