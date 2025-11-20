@@ -1,6 +1,6 @@
 export const profile = {
   name: "Ronald Arce Matamoros",
-  title: "DevOps Engineer & Full Stack Developer",
+  title: "Full Stack Developer & Junior DevOps Engineer",
   location: "Alajuela, Costa Rica",
   email: "ronaldarce11@gmail.com",
   phone: "+(506) 8851-6653",
@@ -58,21 +58,40 @@ export const experience = [
     start: "Jul 2025",
     end: "Present",
     highlights: [
-      "Development and maintenance of multiple company projects in MicroK8s.",
-      "Automated deployment with GitHub Actions and ArgoCD while monitoring key deployments.",
-      "Administration of AWS and Azure VMs as well as local Proxmox servers across different datacenters.",
+      "Deployment and maintenance of multiple company projects in MicroK8s.",
+      "Applied AWS Application Load Balancers and Web ACL whitelisting for deployments.",
+      "Administration of AWS and Azure VMs as well as local Proxmox servers across different countries.",
+      "Implemented alert systems for monitoring infrastructure metrics.",
     ],
   },
   {
-    role: "Full Stack Developer & Sysadmin",
+    role: "Jr Software Developer",
     company: "STREAMING AND MULTIMEDIA CORPORATION LIMITADA",
     location: "Alajuela, Costa Rica",
     start: "Dec 2024",
     end: "Jun 2025",
     highlights: [
-      "Participated as a Full Stack Developer on a streaming & billing solution handling payment, player, and dashboard modules (from Frontend & Backend).",
-      "Implemented monitoring and alerting through Grafana and Prometheus.",
-      "Delivered new API components for a payment processor and migrated legacy front-end modules to React.",
+      "Contributed as a Full Stack Developer to an RTMP streaming administration system, implementing new features and resolving bugs across frontend and backend.",
+    ],
+  },
+  {
+    role: "Jr Software Developer Intern",
+    company: "STREAMING AND MULTIMEDIA CORPORATION LIMITADA",
+    location: "Alajuela, Costa Rica",
+    start: "Jun 2024",
+    end: "Dec 2024",
+    highlights: [
+      "Built a library to integrate a streaming player with metadata and real-time data transmission from streams.",
+    ],
+  },
+  {
+    role: "Frontend Developer",
+    company: "Seamark Dev",
+    location: "Alajuela, Costa Rica",
+    start: "Feb 2024",
+    end: "Jun 2024",
+    highlights: [
+      "Delivered responsive layouts and new UI components for a recruitment and networking web app.",
     ],
   },
 ];
@@ -81,13 +100,13 @@ export const education = [
   {
     school: "Tecnológico de Costa Rica",
     location: "Alajuela, Costa Rica",
-    credential: "Computer Engineering (in progress)",
-    dates: "2020 – Present",
+    credential: "Computer Engineering",
+    dates: "2025"
   },
   {
-    school: "Colegio Técnico Profesional Industrial de Alajuela",
+    school: "Colegio Técnico Profesional Regional de San Carlos",
     location: "Alajuela, Costa Rica",
-    credential: "Cisco networking fundamentals, Computer Science basics",
-    dates: "December 2019",
+    credential: "Tech Support High School Bachelor",
+    dates: "2019"
   },
 ];

@@ -2,13 +2,13 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ronald Arce | Galactic Portfolio",
-  description: "DevOps Engineer & Full Stack Developer with a passion for cosmic-grade experiences.",
+  title: "Ronald Arce Resume",
+  description: "Full Stack Developer & Junior DevOps Engineer",
   themeColor: "#0a0f1f",
   openGraph: {
-    title: "Ronald Arce | Galactic Portfolio",
+    title: "Ronald Arce Resume",
     description:
-      "DevOps Engineer & Full Stack Developer with a passion for automation, cloud, and immersive user experiences.",
+      "Full Stack Developer & Junior DevOps Engineer",
   },
 };
 
