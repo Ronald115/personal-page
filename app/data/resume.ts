@@ -2,9 +2,9 @@ export const profile = {
   name: "Ronald Arce Matamoros",
   title: "Full Stack Developer & Junior DevOps Engineer",
   location: "Alajuela, Costa Rica",
-  email: "ronaldarce11@gmail.com",
+  email: "ronaldarcem11@gmail.com",
   phone: "+(506) 8851-6653",
-  linkedin: "https://www.linkedin.com/in/ronald-arce-84293203",
+  linkedin: "https://www.linkedin.com/in/ronald-arce-842920233",
   summary:
     "With over 6 years of experience in software development, I've contributed to building and maintaining responsive web applications designed to deliver a smooth experience across any device. My work has included implementing reliable backend solutions, optimizing performance, and collaborating on scalable architectures that support long-term growth. I also have hands-on experience with infrastructure and cloud technologies, which allows me to understand the full lifecycle of applications. I'm looking to continue expanding my skills while contributing to innovative, high-quality software projects.",
 };
@@ -110,3 +110,4 @@ export const education = [
     dates: "2019"
   },
 ];
+
